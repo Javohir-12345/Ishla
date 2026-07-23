@@ -1,0 +1,4 @@
+aiogram
+requests
+google-cloud-vision
+python-dotenv
